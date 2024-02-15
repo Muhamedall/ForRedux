@@ -1,6 +1,8 @@
 # AnimeMania Website
 
 Welcome to the AnimeMania Website project! This project aims to provide anime and manga enthusiasts with a platform to browse, watch, and purchase anime-related products.
+![Uploading Capture d'écran 2024-02-15 214457.png…]()
+
 
 ## Table of Contents
 
