@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+<img width="960" alt="Capture d’écran 2023-10-12 231012" src="https://github.com/Muhamedall/ForRedux/assets/112777103/aa7b3915-cbc3-48fb-b52c-95e19926a766"># Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+helo 
 
 ## Available Scripts
 
@@ -10,6 +11,8 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+![7f0e1f6b8ea4691e8637fba5f284e350](https://github.com/Muhamedall/ForRedux/assets/112777103/2a887a20-deb8-44bc-b653-6dc63044fa82)
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
